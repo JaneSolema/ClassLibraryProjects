@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Lab4-Q2
+  name: Lab4-Q2
 
 variables:
   buildConfiguration: 'Release'
